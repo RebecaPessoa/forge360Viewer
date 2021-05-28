@@ -26,6 +26,7 @@ A [Forge](https://forge.autodesk.com/) permite usar os dados de design e engenha
 * Multer
 * Cookie session
 * Bootstrap
+* ChartJs
 
 ### Funcionalidades: 
 
