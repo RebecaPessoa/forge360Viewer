@@ -39,6 +39,10 @@ A [Forge](https://forge.autodesk.com/) permite usar os dados de design e engenha
 ![PROJETOS](https://user-images.githubusercontent.com/4651221/119932294-5ab8ff00-bf59-11eb-97f7-97f0b959ebc7.gif)
 ![2PROJETOS](https://user-images.githubusercontent.com/4651221/119932308-61477680-bf59-11eb-8d18-8af9bbf53637.gif)
 
+#### Dashboard de Quantitativos:
+![DASHBOARDS](https://user-images.githubusercontent.com/4651221/119938003-1716c300-bf62-11eb-8c3f-6252d901a6b9.gif)
+
+
 #### Alguns Controles:
 ![ORBITA](https://user-images.githubusercontent.com/4651221/119932350-80de9f00-bf59-11eb-9694-801bf0b57db2.gif)
 ![1_PESSOA](https://user-images.githubusercontent.com/4651221/119932371-89cf7080-bf59-11eb-91aa-190bffa93b0c.gif)
